@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T19:30:22.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="ioLK1RyNLS1u63zmEo5R" version="14.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T19:37:37.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="EnnHI8WNukhlJOjv3D0I" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1479" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2719" dy="2493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -76,7 +76,7 @@
         <mxCell id="jX9hkniozbxh84H9w6ua-5" value="+procedureName: string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-3">
           <mxGeometry y="52" width="310" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jX9hkniozbxh84H9w6ua-22" value="+doctor: Doctor" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-3">
+        <mxCell id="jX9hkniozbxh84H9w6ua-22" value="+doctor: Doctor [1..1]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-3">
           <mxGeometry y="78" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-7" value="+doctorId: number" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-3">
@@ -151,7 +151,7 @@
           <mxGeometry y="260" width="280" height="12" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-39" value="Doctor" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="450" width="310" height="220" as="geometry">
+          <mxGeometry x="610" y="450" width="310" height="230" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -170,7 +170,7 @@
         <mxCell id="jX9hkniozbxh84H9w6ua-81" value="+locationId: number" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-39">
           <mxGeometry y="130" width="310" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jX9hkniozbxh84H9w6ua-82" value="+location: Location" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-39">
+        <mxCell id="jX9hkniozbxh84H9w6ua-82" value="+location: Location [1..1]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-39">
           <mxGeometry y="156" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-51" value="+appointmentProcedures: AppointmentProcedure [1..n]" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="jX9hkniozbxh84H9w6ua-39">
