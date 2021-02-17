@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T21:56:14.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="pDwjBdL_QqqQrNIbZdoJ" version="14.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T21:56:53.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="usFTJCUumEaEYU5CMmXG" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
           <mxGeometry y="118" width="280" height="12" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-39" value="&lt;&lt;interface&gt;&gt;&#xa;Doctor" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="440" width="310" height="140" as="geometry">
+          <mxGeometry x="610" y="430" width="310" height="140" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -225,7 +225,7 @@
           <mxGeometry x="480" y="250" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-77" value="1..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="410" width="40" height="20" as="geometry" />
+          <mxGeometry x="690" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-78" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#000000;strokeWidth=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jX9hkniozbxh84H9w6ua-53" target="jX9hkniozbxh84H9w6ua-20">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -253,7 +253,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-84" value="1..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="585" width="40" height="20" as="geometry" />
+          <mxGeometry x="690" y="575" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-85" value="1..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-50" y="585" width="40" height="20" as="geometry" />
@@ -262,7 +262,7 @@
           <mxGeometry x="840" y="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-88" value="1..1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="390" width="40" height="20" as="geometry" />
+          <mxGeometry x="840" y="380" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jX9hkniozbxh84H9w6ua-89" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;AppointmentStatus:Enum&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Confirmed = 0&lt;br&gt;InProcess = 1&lt;br&gt;Done = 2&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="-31.5" width="160" height="101" as="geometry" />
