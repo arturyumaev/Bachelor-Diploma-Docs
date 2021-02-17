@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T19:46:46.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="hFEv8tuoXQL38u9Ul-VZ" version="14.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T19:48:13.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="mr50oKVXXRqpuaYJzN2P" version="14.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2719" dy="2493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -318,6 +318,15 @@
             <mxPoint x="150" y="870" as="sourcePoint" />
             <mxPoint x="200" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jX9hkniozbxh84H9w6ua-93" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jX9hkniozbxh84H9w6ua-7" target="jX9hkniozbxh84H9w6ua-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="70" as="sourcePoint" />
+            <mxPoint x="1050" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jX9hkniozbxh84H9w6ua-94" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Currency:Enum&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;RUB = &quot;₽&quot;&lt;br&gt;USD = &quot;$&quot;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="25" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
