@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T15:57:23.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="GG7Xd-R7Hoy5lA0W3v67" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T16:00:07.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="1oed2nfk-15sTFgXS-h9" version="14.4.3" type="github">
   <diagram id="p532g-855cfK_44qpJS8" name="Page-1">
     <mxGraphModel dx="1455" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="320" width="105" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-3">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-3">
           <mxGeometry x="27.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-2" value="Клиент позвонил в клинику" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-3">
@@ -22,7 +22,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1020" y="320" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-4">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-4">
           <mxGeometry x="27.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-6" value="Клиент пришел на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-4">
@@ -67,7 +67,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="877.5" y="172" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-18">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-18">
           <mxGeometry x="27.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-20" value="Клиент категорически отказался" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-18">
@@ -90,7 +90,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-25" value="Клиент готов записаться на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-29">
           <mxGeometry y="50" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-29">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-29">
           <mxGeometry x="27.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-27" target="g4eD40Q_NZE2Z1kr3vVq-13">
@@ -102,7 +102,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-32" value="Клиент сомневается" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-31">
           <mxGeometry y="50" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-31">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-31">
           <mxGeometry x="27.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-35" target="g4eD40Q_NZE2Z1kr3vVq-19">
@@ -164,7 +164,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-80" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="800" y="430" width="155" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-80">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-80">
           <mxGeometry x="105" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-79" value="Клиент не пришел на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-80">
@@ -179,7 +179,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-87" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1390" y="265" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-87">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-87">
           <mxGeometry x="27.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-89" value="Клиенту оказаны медицинские услуги" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-87">
@@ -197,7 +197,7 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-97" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1060" y="70" width="105" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-97">
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-97">
           <mxGeometry x="27.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-93" value="Требуется оказание дополнительных услуг" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-97">
