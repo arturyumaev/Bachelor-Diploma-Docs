@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T15:51:29.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="mtj1JU_B4Ce6zFdyRA4x" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T15:53:28.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="pEyrtp--A-TOX0rbK37F" version="14.4.3" type="github">
   <diagram id="p532g-855cfK_44qpJS8" name="Page-1">
-    <mxGraphModel dx="676" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="2187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-13" target="g4eD40Q_NZE2Z1kr3vVq-73">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="450" />
+              <mxPoint x="565" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-13" value="Выбрать список процедур" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="640" y="315" width="160" height="60" as="geometry" />
@@ -184,7 +189,7 @@
           <mxGeometry x="-70" y="390" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
-          <mxGeometry y="860" width="1520" height="280" as="geometry" />
+          <mxGeometry y="810" width="1520" height="130" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-87" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1390" y="160" width="105" height="110" as="geometry" />
@@ -215,6 +220,15 @@
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-92" target="g4eD40Q_NZE2Z1kr3vVq-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry y="810" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-101" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Врач&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="855" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
