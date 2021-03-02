@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T15:37:37.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="fZwisK1g7BDjErtXWX8I" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T15:38:41.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="aWhfBlJMJmlrwXsI2RwG" version="14.4.3" type="github">
   <diagram id="p532g-855cfK_44qpJS8" name="Page-1">
     <mxGraphModel dx="676" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,8 +112,10 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-43" value="Провести прием у врача" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1170" y="315" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-44" target="g4eD40Q_NZE2Z1kr3vVq-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-44" target="g4eD40Q_NZE2Z1kr3vVq-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="929.9999999999998" y="429.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-44" value="" style="rhombus;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="900" y="315" width="60" height="60" as="geometry" />
@@ -130,21 +132,6 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-48" value="Клиенту оказаны медицинские услуги" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-46">
           <mxGeometry y="60" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-54" value="" style="group;container=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="800" y="430" width="182.5" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-55" value="" style="group" vertex="1" connectable="0" parent="g4eD40Q_NZE2Z1kr3vVq-54">
-          <mxGeometry width="182.5" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-50" value="" style="group" vertex="1" connectable="0" parent="g4eD40Q_NZE2Z1kr3vVq-55">
-          <mxGeometry x="77.5" width="105" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-50">
-          <mxGeometry x="27.5" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-52" value="Клиент не пришел на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-55">
-          <mxGeometry width="105" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-56" target="g4eD40Q_NZE2Z1kr3vVq-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="745" y="508" as="targetPoint" />
@@ -153,8 +140,10 @@
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-56" value="Удалить запись о приеме" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="850" y="530" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-51" target="g4eD40Q_NZE2Z1kr3vVq-56">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-77" target="g4eD40Q_NZE2Z1kr3vVq-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="929.9999999999998" y="479.9999999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-70" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="512.5" y="640" width="105" height="120" as="geometry" />
@@ -182,6 +171,15 @@
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-73" value="Создать прием у врача" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="485" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="430" width="155" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-80">
+          <mxGeometry x="105" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-79" value="Клиент не пришел на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-80">
+          <mxGeometry width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
