@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T15:41:03.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="PjOngkwyZt5mLCleDYrn" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T15:45:07.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="tCzbfniUx7mxvTetpn9J" version="14.4.3" type="github">
   <diagram id="p532g-855cfK_44qpJS8" name="Page-1">
-    <mxGraphModel dx="676" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-83" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="80" width="1520" height="760" as="geometry" />
+        </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="320" width="105" height="90" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-9" value="Провести консультацию по существующим услугам" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="315" width="160" height="60" as="geometry" />
+          <mxGeometry x="230" y="315" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-12" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g4eD40Q_NZE2Z1kr3vVq-9" target="g4eD40Q_NZE2Z1kr3vVq-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -180,6 +183,15 @@
         </mxCell>
         <mxCell id="g4eD40Q_NZE2Z1kr3vVq-79" value="Клиент не пришел на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="g4eD40Q_NZE2Z1kr3vVq-80">
           <mxGeometry width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry y="80" width="70" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-85" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Администратор&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="440" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g4eD40Q_NZE2Z1kr3vVq-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry y="860" width="1520" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
