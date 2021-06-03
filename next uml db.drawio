@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T16:22:30.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="e2Ca3v6_UzHJG4shd6JI" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T16:23:27.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="R94Do2-huzAKEItMOOJj" version="14.7.4" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="1614" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1478" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,8 +99,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qIBRMNPS-gHXSwT-0g_A-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="qIBRMNPS-gHXSwT-0g_A-35" target="qIBRMNPS-gHXSwT-0g_A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIBRMNPS-gHXSwT-0g_A-48" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qIBRMNPS-gHXSwT-0g_A-47">
+          <mxGeometry x="-0.853" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qIBRMNPS-gHXSwT-0g_A-49" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qIBRMNPS-gHXSwT-0g_A-47">
+          <mxGeometry x="0.8239" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qIBRMNPS-gHXSwT-0g_A-50" value="id:doctorId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qIBRMNPS-gHXSwT-0g_A-47">
+          <mxGeometry x="-0.0004" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qIBRMNPS-gHXSwT-0g_A-35" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;AppointmentProcedure&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;id&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;int&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;name&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;varchar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;duration&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;int&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;phone&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;varchar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;notes&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;text&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;doctorId&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;int&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;roomId&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;int&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;departmentId&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;int&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;locationId&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;text-align: right&quot;&gt;int&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="150" width="190" height="190" as="geometry" />
+          <mxGeometry x="-250" y="150" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="qIBRMNPS-gHXSwT-0g_A-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="qIBRMNPS-gHXSwT-0g_A-36" target="o9HNC0lRtopPObrmbEmO-127">
           <mxGeometry relative="1" as="geometry">
