@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T18:00:49.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1dfU_DN1tdLxHjPu5t23" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T18:01:49.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="nV9H87Fv7Z_9qcN9GvET" version="14.7.6" type="github">
   <diagram id="jY5GKEmSySHbC-k4HSAK" name="Page-1">
-    <mxGraphModel dx="1480" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2146" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,41 +15,8 @@
         <mxCell id="KAagWAsMR12IPSaOMaUX-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-720" y="200" width="360" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-5" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Админ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="50" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-8" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Доктор&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="50" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-9" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Пациент&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="50" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="KAagWAsMR12IPSaOMaUX-10" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Профиль&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="160" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-12" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Календарь&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-13" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Процедуры&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-14" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Пациенты&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-15" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Доктора&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-16" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Локации&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-17" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Локации&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-18" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Кабинеты&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAagWAsMR12IPSaOMaUX-19" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Отделения&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KAagWAsMR12IPSaOMaUX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="KAagWAsMR12IPSaOMaUX-20">
           <mxGeometry relative="1" as="geometry">
